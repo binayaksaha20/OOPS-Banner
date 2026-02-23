@@ -1,5 +1,5 @@
 class OOPSPattern {
-    public static void main(String[] args) {
+    void main() {
     System.out.println("  *****    *****    *****    *****  ");
     System.out.println(" *     *  *     *  *     *  *       ");
     System.out.println(" *     *  *     *  *     *  *       ");
