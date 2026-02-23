@@ -8,3 +8,4 @@ class OOPSPattern {
     System.out.println(" *     *  *     *  *              * ");
     System.out.println("  *****    *****   *         *****  ");
 }
+}
